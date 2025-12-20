@@ -1,19 +1,72 @@
-<h1 align="center">Hi 👋, I'm Pedro Alarcón (AI-larcode)</h1>
-<h3 align="center">An AI and coding enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Pedro%20Alarcón&fontSize=80&animation=fadeIn&subText=AI-larcode%20|%20AI%20%26%20Data%20Science%20Enthusiast&subFontSize=20&fontAlignY=35" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-larcon&label=Profile%20views&color=0e75b6&style=flat" alt="ai-larcon" /> </p>
-
-- 📫 How to reach me **pedroalrfun2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ai-larcon&label=Profile%20views&color=0e75b6&style=flat-square" alt="ai-larcon" />
+  <img src="https://img.shields.io/badge/Main_Focus-AI_%26_Machine_Learning-blue?style=flat-square&logo=python" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-larcon&show_icons=true&locale=en&layout=compact" alt="ai-larcon" /></p>
+### 🤖 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-larcon&show_icons=true&locale=en" alt="ai-larcon" /></p>
+¡Hola! Soy **Pedro Alarcón**, mejor conocido en el mundo dev como **AI-larcode**. Me apasiona cerrar la brecha entre el código puro y la inteligencia artificial.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-larcon&" alt="ai-larcon" /></p>
+- 🧠 Especializándome en **Computer Vision y Modelos Predictivos**.
+- 🛠️ Construyendo soluciones robustas con un enfoque en **Machine Learning Ops (MLOps)**.
+- ✉️ ¿Tienes un proyecto interesante? Hablemos: [pedroalrfun2004@gmail.com](mailto:pedroalrfun2004@gmail.com)
+
+---
+
+### 🛠️ Mi Arsenal Tecnológico
+
+#### 🧠 Inteligencia Artificial & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas" />
+</p>
+
+#### ⚙️ DevOps & Infraestructura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,mongodb,grafana" />
+</p>
+
+---
+
+### 📊 Análisis de Actividad
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ai-larcon&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-larcon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-larcon&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ai-larcon&theme=tokyonight&no-bg=true&column=7" width="100%" />
+</p>
+
+---
+
+### 🐍 Mi contribución en movimiento
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
