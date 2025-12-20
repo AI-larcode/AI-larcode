@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=180&section=header&text=Pedro%20Alarcón%20%7C%20AI-larcode&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;Computer+Vision+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Engineering+Student;Passionate+About+Artificial+Intelligence;Computer+Vision+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Insights" alt="Typing SVG" />
 </h3>
 
 <p>
@@ -22,13 +22,13 @@
 
 ## About Me
 
-I'm **Pedro Alarcón**, also known as **AI-larcode** in the developer community. I specialize in developing robust AI solutions with a focus on **Computer Vision**, **Predictive Modeling**, and **MLOps**. My work sits at the intersection of machine learning research and production-ready systems.
+I'm **Pedro Alarcón**, also known as **AI-larcode** in the developer community. I'm a **Data Science and Data Engineering student** with a deep passion for **Artificial Intelligence**. My focus is on **Computer Vision**, **Predictive Modeling**, and **MLOps**, working at the intersection of machine learning research and practical applications.
 
 ```python
-class AI_Engineer:
+class Data_Science_Student:
     def __init__(self):
         self.name = "Pedro Alarcón"
-        self.role = "AI & Machine Learning Engineer"
+        self.role = "Data Science & Engineering Student"
         self.location = "Remote"
         self.focus_areas = [
             "Computer Vision",
@@ -48,7 +48,7 @@ class AI_Engineer:
 
 ### What I'm Working On
 
-- Developing production-grade computer vision solutions
+- Learning and developing computer vision solutions
 - Building scalable ML pipelines with a focus on MLOps best practices
 - Researching efficient model deployment strategies
 - Contributing to open-source AI projects
