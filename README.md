@@ -1,10 +1,11 @@
 <div align="center">
 
-# Pedro Alarcón
 
-### AI Engineer & Data Science Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pedro%20Alarcón%20%7C%20AI-larcode&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-Building intelligent systems that bridge code and artificial intelligence
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;Computer+Vision+%7C+MLOps+%7C+Deep+Learning;Transforming+Data+Into+Insights" alt="Typing SVG" />
+</h3>
 
 <p>
   <a href="mailto:pedroalrfun2004@gmail.com">
@@ -106,73 +107,21 @@ class AI_Engineer:
 
 ---
 
-## Featured Projects & Contributions
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Computer Vision Projects</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      </p>
-      <p align="center">
-        Real-time object detection and image segmentation solutions
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Predictive Analytics</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-      <p align="center">
-        Advanced forecasting models for business intelligence
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MLOps Pipelines</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      </p>
-      <p align="center">
-        Automated model training and deployment infrastructure
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Deep Learning Research</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        Experimental neural network architectures and optimization
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Recent Activity
+## Contribution Activity
 
 <div align="center">
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ai-larcode/ai-larcode/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ai-larcode/ai-larcode/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ai-larcode/ai-larcode/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
 
 </div>
 
@@ -208,5 +157,9 @@ I'm always interested in discussing AI, machine learning, and innovative tech pr
   
 **"Machine learning is the new electricity." - Andrew Ng**
 
+<sub>Last updated: December 2025</sub>
+
+<!-- Footer dinámico con wave animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
