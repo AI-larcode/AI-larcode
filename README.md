@@ -150,9 +150,6 @@ I'm always interested in discussing AI, machine learning, and innovative tech pr
   
 **"Machine learning is the new electricity." - Andrew Ng**
 
-<sub>Last updated: December 2025</sub>
-
-<!-- Footer dinámico con wave animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
